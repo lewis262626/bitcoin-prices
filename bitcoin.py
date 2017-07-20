@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# weather.py - Prints the current bitcoin price for a current x
+# bitcoin.py - Prints the current bitcoin price for a current x
 import json, requests, sys, pprint
 
 # Compute the location from the command line
