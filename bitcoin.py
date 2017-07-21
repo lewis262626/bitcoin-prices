@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # bitcoin.py - Prints the current bitcoin price for a current x
-import json, requests, sys, pprint
+import json, requests, sys
 
 # Compute the location from the command line
 if len(sys.argv) < 2:
